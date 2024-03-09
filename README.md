@@ -8,6 +8,7 @@ Tools
 - Heatgun.
 - [Engineer PA-09 Crimp Tool](https://www.amazon.ca/gp/product/B002AVVO7K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 - Wirestripper, a printed variant is just fine.
+- Tap drill bits, M3-M5. The tap wrench can be printed, here's one of [my designs](https://www.printables.com/model/792934-tap-wrench).
 
 Spare Parts
 - Spare nozzles of different sizes.
