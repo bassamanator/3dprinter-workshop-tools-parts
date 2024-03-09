@@ -1,16 +1,21 @@
 # 3D Printer Workshop Tools and Parts
 
+_\* All prices in Canadian_
+_\*\* Some of the links found on this page may be affiliate links_
+
 Necessary tools and parts that should be found in a proper 3D printing workshop.
 
 Tools
-- Digital multimeter.
+
+- [Digital multimeter](https://s.click.aliexpress.com/e/_Dmrsfs9). $35
 - Soldering iron, you don't need an expensive one.
-- Heatgun.
+- [Heat gun](https://s.click.aliexpress.com/e/_DEaFbHP). $11
 - [Engineer PA-09 Crimp Tool](https://www.amazon.ca/gp/product/B002AVVO7K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 - Wirestripper, a printed variant is just fine.
 - Tap drill bits, M3-M5. The tap wrench can be printed, here's one of [my designs](https://www.printables.com/model/792934-tap-wrench).
 
 Spare Parts
+
 - Spare nozzles of different sizes.
 - One spare heatbreak at the least.
 - One spare heater block at the least.
